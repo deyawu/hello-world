@@ -1,5 +1,7 @@
 #include "heavy.h"
-
+/*
+ * change in the branch successfully
+ */
 Heavy::Heavy()
 {
 	for (int i = 0; i < NUM; i++)
