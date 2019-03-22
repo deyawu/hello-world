@@ -1,5 +1,8 @@
 #include "heavy.h"
-
+#define TEST 1
+/*
+ * change or not
+ */
 Heavy::Heavy()
 {
 	for (int i = 0; i < NUM; i++)
