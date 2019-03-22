@@ -1,7 +1,6 @@
 #include "heavy.h"
-#define TEST 1
 /*
- * change or not
+ * change in the branch successfully
  */
 Heavy::Heavy()
 {
